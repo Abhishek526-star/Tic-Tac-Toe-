@@ -23,12 +23,15 @@ This project is a simple and interactive **Tic Tac Toe** game built with HTML, C
 ## Screenshots 📸
 
 ### Game Interface 🎮
-![Game Interface](./screenshots/game-interface.png)
+![Screenshot 2024-12-27 192126](https://github.com/user-attachments/assets/28c7af29-498e-4874-ad4f-47a1bb8931cb)
+
 
 ### Winner Announcement 
-![Winner Announcement](./screenshots/winner.png)
+
+![Screenshot 2024-12-27 192034](https://github.com/user-attachments/assets/7c957061-a90f-42e9-8d1a-61d806b564ad)
 
 ### Draw Announcement 
-![Draw Announcement](./screenshots/draw.png)
+![Screenshot 2024-12-27 192059](https://github.com/user-attachments/assets/bec59ae8-5ee4-4c53-9756-d474de1ea08c)
+
 
 Enjoy playing Tic Tac Toe! 🎉
