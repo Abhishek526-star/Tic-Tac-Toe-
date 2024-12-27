@@ -9,26 +9,37 @@
 <body>
     <h1> Tic Tac Toe</h1>
     <div class="msg-container hide">
-        <p id="msg">Winner</p>
-        <button id="new-btn"> New Game </button>
+        <p id="msg"></p>
     </div>
-    <main>
-        
-        <div class="container">
-            <div class="game">
-                <button class="box"></button>
-                <button class="box"></button>
-                <button class="box"></button>
-                <button class="box"></button>
-                <button class="box"></button>
-                <button class="box"></button>
-                <button class="box"></button>
-                <button class="box"></button>
-                <button class="box"></button>
-            </div>
+    <div class="scoreboard">
+        <h2 id="player-score">Player: 0</h2>
+        <h2 id="ai-score">player 2: 0</h2>
+        <p id="mode-display">Mode: Friend</p>
+    </div>
+    <div class="controls">
+        <button id="mode-toggle">Toggle Mode</button>
+    </div>
+    <br>
+    <button id="new-btn">New Game</button>
+    
+    <div class="container">
+        <div class="game">
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
         </div>
-        <button id="Reset-btn"> Reset Game</button>
-    </main>
+        
+    </div>
+    <div>
+        <button id="Reset-btn">Reset Game</button>
+    </div>
+    
     <script src="index.js" ></script>
 </body>
 </html>
