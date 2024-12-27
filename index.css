@@ -7,7 +7,7 @@ body{
     text-align: center;
 }
 .container{
-    height: 65vh;
+    height: 60vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,8 +33,8 @@ body{
 
 }
 #Reset-btn{
-    padding: 1rem;
-    font-size: 1.5rem;
+    padding: 0.8rem;
+    font-size: 1rem;
     background-color: rgb(163, 163, 235);
     border-radius: 1rem;
     align-items: center;
@@ -43,8 +43,9 @@ body{
   
 }
 #new-btn{
-    padding: 1rem;
-    font-size: 1.5rem;
+    padding: 0.6rem;
+    margin-top: 0.1rem;
+    font-size: 1rem;
     background-color: rgb(154, 154, 237);
     border-radius: 1rem;
     align-items: center;
@@ -53,23 +54,24 @@ body{
 }
 #msg{
     color: rgb(235, 137, 9);
-    font-size: 5vmin;
+    font-size: 4vmin;
     
 }
 .msg-container{
-    height: 10vmin;
+    height: 6vmin;
 }
 .hide {
     display: none;
 }
 
 .controls {
-    margin: 1rem 0;
+    margin: 0.2rem;
 }
 
 #mode-toggle {
-    padding: 0.5rem 1rem;
-    font-size: 1.2rem;
+    padding: 0.2rem 0.5rem;
+    font-size: 1rem;
+    margin-top: 0.1rem;
     background-color: #4caf50;
     color: white;
     border: none;
@@ -83,7 +85,7 @@ body{
 }
 
 #mode-display {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color: #333;
-    margin-top: 1rem;
+    margin-top: 0.1rem;
 }
