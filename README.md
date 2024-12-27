@@ -5,10 +5,13 @@ This project is a simple and interactive **Tic Tac Toe** game built with HTML, C
 ## Features ✨
 
 - Two-player functionality with `O` starting first.
+- Add AI for single-player mode.
 - Displays the winner or a draw message.
 - Buttons to reset or start a new game.
 - Hover effects for interactive gameplay.
 - Fully responsive for desktop and mobile devices.
+- Track and display player scores.
+- Add sound effects  for better user experience.
 
 
 ## Technologies Used 💻
@@ -27,11 +30,5 @@ This project is a simple and interactive **Tic Tac Toe** game built with HTML, C
 
 ### Draw Announcement 
 ![Draw Announcement](./screenshots/draw.png)
-
-## Future Enhancements 
-
-- Add AI for single-player mode.
-- Track and display player scores.
-- Add sound effects  for better user experience.
 
 Enjoy playing Tic Tac Toe! 🎉
